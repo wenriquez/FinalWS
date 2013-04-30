@@ -1,0 +1,7 @@
+http://127.0.0.1:8080/BookStoreRS/search
+
+Method: POST
+
+Body: 
+
+{"orders":[{"title":"Homework 3","isbn":"000303030","price":600.0,"authL":"Todd","authF":"Bob","authM":null}],"orderNumber":0,"cust":{"fname":"Bob","lname":"Thorn","mname":null,"steetName":"4847 Pulaski","city":"Chicago","state":"Illinois","zipcode":"60641","phoneNumber":"773-453-5555"},"card":{"creditCardNum":"67853535432","month":11,"year":2013,"securityCode":678,"fname":"Bob","lname":"Thorn","mname":null,"steetName":"4847 Pulaski","city":"Chicago","state":"Illinois","zipcode":"60641","phoneNumber":"773-453-5555"},"stat":{"stat":"Processing"}}
